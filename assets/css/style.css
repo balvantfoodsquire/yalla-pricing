@@ -263,6 +263,17 @@ body{
 .m-l-6{
   margin-left:-4px;
 }
+.billed-per-week{
+   font-family: Montserrat-Bold;
+  font-size: 9.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.79;
+  letter-spacing: 1.11px;
+  text-align: center;
+  color: #333333;
+}
 .doller-sign{
   font-family: Montserrat-SemiBold;
     font-size: 18.5px;
