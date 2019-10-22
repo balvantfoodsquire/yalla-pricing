@@ -255,6 +255,7 @@ body{
   letter-spacing: normal;
   text-align: left;
   color: #000000;
+  margin-bottom: 0px;
 }
 .doller-sign{
   font-family: Montserrat-SemiBold;
