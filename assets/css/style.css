@@ -257,6 +257,12 @@ body{
   color: #000000;
   margin-bottom: 0px;
 }
+.m-r-6{
+  margin-right: -6px;
+}
+.m-l-6{
+  margin-left:-4px;
+}
 .doller-sign{
   font-family: Montserrat-SemiBold;
     font-size: 18.5px;
@@ -275,7 +281,7 @@ body{
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.13;
+    line-height: 0.8;
     letter-spacing: -1.92px;
     text-align: center;
     color: #262b41;
@@ -331,6 +337,9 @@ body{
 }
 .btn-dark-blue{
   background-color: #262b41;
+}
+.btn-dark-blue:hover{
+ background-color: #00e099;
 }
 .prefer-text{
   font-family: Montserrat-Bold;
