@@ -581,3 +581,261 @@ section#footer .bottom .copyright {
     color: #8388a2;
     font-family: Montserrat-SemiBold;
 }
+
+/*yalla-catering-dispatch*/
+
+.banner-yalla-catering {
+    height: 400px;
+    background-image: url(../images/banner-yalla-catering-cispatch.png);
+    padding: 5% 0px 0 0;
+    background-size: cover;
+}
+
+.yalla-catering-dispatch {
+ 
+  text-shadow: -2.1px 3.4px 3px rgba(0, 0, 0, 0.1);
+  font-family: Montserrat-Bold;
+  font-size: 53.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.catering-delivery-network {
+ 
+  text-shadow: -2.1px 3.4px 3px rgba(0, 0, 0, 0.1);
+  font-family: Montserrat-Regular;
+  font-size: 38px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.more-catering-orders {
+  font-family: Montserrat-Bold;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #242e42;
+}
+.noneed-text{
+  font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #545051;
+}
+.catering-section {
+    object-fit: contain;
+     padding: 15px 0;
+    margin: 40px 0;
+}
+.twooption-heading {
+  font-family: Montserrat-Bold;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262b41;
+  margin-bottom: 20px;
+}
+.demand-block{
+padding: 5px 50px;
+}
+.automatic-block{
+padding: 5px 50px;
+}
+.demand-block h2 {
+  font-family: Montserrat-SemiBold;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #f0595e;
+}
+.demand-block p{
+  font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #545051;
+}
+.automatic-block h2 {
+  font-family: Montserrat-SemiBold;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #00e099;
+}
+.automatic-block p{
+  font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #545051;
+}
+.section-form{
+  height: 704px;
+  object-fit: contain;
+  background-color: #262b41;
+  padding: 5% 0;
+}
+.section-form h2{
+  font-family: Montserrat-SemiBold;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+.form-learn{
+  padding: 20px 50px;
+}
+.form-learn .form-group{
+margin-bottom: 20px;
+}
+.form-learn label{
+    font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+.form-learn input{
+  height: 60px !important;
+   font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #545051;
+}
+.form-learn input:focus{
+  box-shadow: none;
+  outline: none;
+}
+.form-learn input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+   font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #545051;
+}
+.form-learn .btn-submit{
+  float: right;
+  border-radius: 5px;
+  background-color: #00e099;
+   font-family: Montserrat-SemiBold;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height:normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262b41;
+  padding: 20px 80px;
+}
+.section-success{
+ padding: 40px;
+}
+.more-success-text{
+  font-family: Montserrat-Bold;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262b41;
+}
+.more-div{
+  margin: 30px 0;
+}
+.more-div h2{
+    font-family: Montserrat-SemiBold;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262b41;
+      margin-top: 10px;
+}
+.more-div p{
+   font-family: Montserrat-Regular;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #545051;
+}
+.more-div a{
+   border-radius: 5px;
+  background-color: #262b41;
+   font-family: Montserrat-Bold;
+  font-size: 17px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.59;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+      display: block;
+    margin: auto;
+    width: 70%;
+    padding: 15px;
+}
