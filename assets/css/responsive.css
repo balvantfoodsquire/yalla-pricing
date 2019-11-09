@@ -417,6 +417,39 @@ section#footer .top .left .address h6 {
 .client-logo{
     margin: 10px 0;
 }
+/*yalla-catering-dispatch*/
+.banner-yalla-catering {
+    height: auto !important;
+
+}
+.yalla-catering-dispatch {
+font-size: 35px !important;
+}
+.catering-delivery-network {
+  font-size: 34px !important;
+}
+.more-catering-orders {
+    font-size: 25px !important;
+}
+.twooption-heading {
+    font-size: 30px !important;
+}
+.demand-block {
+    padding: 5px 0px !important;
+}
+.section-form h2 {
+  font-size: 30px !important;
+}
+.form-learn {
+    padding: 20px 0px !important    ;
+}
+.section-success {
+    padding: 0px !important;
+    margin-top: 50px;
+}
+.more-success-text {
+   font-size: 30px !important;
+}
 }
 
 /* Pixel 2 ----------- */
