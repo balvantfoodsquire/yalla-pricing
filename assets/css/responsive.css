@@ -28,6 +28,9 @@
     background-size: cover !important;
     background-position: 100% !important;
 }
+.more-div a{
+    width: 90% !important;
+}
 }
 /**********
 iPad 3
